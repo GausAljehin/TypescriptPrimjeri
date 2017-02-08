@@ -1,0 +1,6 @@
+C:\Users\Mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp3\TypeScriptHTMLApp3\bin\TypeScriptHTMLApp3.dll.config
+C:\Users\Mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp3\TypeScriptHTMLApp3\bin\TypeScriptHTMLApp3.dll
+C:\Users\Mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp3\TypeScriptHTMLApp3\bin\TypeScriptHTMLApp3.pdb
+C:\Users\Mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp3\TypeScriptHTMLApp3\obj\Debug\TypeScriptHTMLApp3.csprojResolveAssemblyReference.cache
+C:\Users\Mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp3\TypeScriptHTMLApp3\obj\Debug\TypeScriptHTMLApp3.dll
+C:\Users\Mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp3\TypeScriptHTMLApp3\obj\Debug\TypeScriptHTMLApp3.pdb

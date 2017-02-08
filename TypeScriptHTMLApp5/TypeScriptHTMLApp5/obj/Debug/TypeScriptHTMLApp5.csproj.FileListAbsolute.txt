@@ -1,0 +1,6 @@
+c:\users\mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp5\TypeScriptHTMLApp5\obj\Debug\TypeScriptHTMLApp5.csprojResolveAssemblyReference.cache
+c:\users\mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp5\TypeScriptHTMLApp5\bin\TypeScriptHTMLApp5.dll.config
+c:\users\mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp5\TypeScriptHTMLApp5\bin\TypeScriptHTMLApp5.dll
+c:\users\mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp5\TypeScriptHTMLApp5\bin\TypeScriptHTMLApp5.pdb
+c:\users\mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp5\TypeScriptHTMLApp5\obj\Debug\TypeScriptHTMLApp5.dll
+c:\users\mirko\documents\visual studio 2015\Projects\TypeScriptHTMLApp5\TypeScriptHTMLApp5\obj\Debug\TypeScriptHTMLApp5.pdb
